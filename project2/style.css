@@ -1,0 +1,135 @@
+    .top{
+        display: flex;
+    }
+    .text1{
+        width: 100%;
+        
+    }
+    .text2{
+        width: 99%;
+        padding: 0%;
+        margin: 0%;
+    
+    }
+    .bg{
+        background-color: black;
+        color: white;
+    }
+    .button{
+        color: red;
+        background-color:white;
+    }
+    .current_details1{
+        display: flex;
+        justify-content: space-between;
+    
+
+    }
+    .image{
+        justify-content: center;
+    }
+    
+    .card1{
+        background-color: grey;
+        margin: 10px;
+        border-radius: 10px;
+        padding: 6px;
+        padding: 6PX;
+        width: 1000px;
+    }
+    .side{
+        display: flex;
+        justify-content: space-between  ; 
+    gap: 10px;
+    flex-wrap: wrap;
+    }
+    .forecast{
+    text-align: center;
+    }
+    .forecast-container {
+        display: flex;     /* arrange children side by side */
+        gap: 10px;
+        
+    }
+    .vertical-line {
+        border-left: 2px solid black; /* Line thickness & color */
+        height: 100px;               /* Line length */
+        margin: 10px;
+    }
+    .card2{
+        background-color: grey;
+        margin: 10px;
+        border-radius: 10px;
+    
+    
+    }
+    .space{
+        margin-top: 100px;
+    
+    
+    }
+    .padding1{
+        padding: 8px;
+    }
+    
+
+    .sevencolor{
+    background-color: grey;
+    }
+    .padding_2{
+        padding: 5px;
+    }
+    .last_card{
+    background-color: grey ;
+    }
+    .mor_aft_evn{   
+    gap: 20px;    
+    background-color: grey;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 20px;
+    }
+    .mor_aft_evn1{
+    display: flex;      
+    justify-content: center;
+    text-align: center;
+    gap: 10px;            
+    }
+    .card1{
+        text-align: center;
+    }
+    .mor_aft_evn2{
+    display: flex;      
+    align-items: center;
+    justify-content: space-between;
+    }
+
+
+    .temp{
+        padding-left: 100px;
+    }
+    .top1{
+        margin-left: 25px;
+    }
+    .bottom{
+        margin: 10px;
+        height: 16  0px;
+    }
+    .wind{
+        padding: 20px;
+    }
+    .image_last{
+        display: flex;
+        justify-content: center;
+        padding-bottom: 20px;
+    }
+    .white{
+        color: white;
+
+    }
+    .black{
+        background-color: black;
+    }
+   
+
+    
